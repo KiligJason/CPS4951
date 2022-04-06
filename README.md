@@ -1,5 +1,5 @@
 # CPS4951
-Readme
+
 Homepage of health management BBS GYM management system
 Diet management system
 Project deployment, database and sever construction
